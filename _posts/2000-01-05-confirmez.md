@@ -1,7 +1,7 @@
 ---
 title:  Confirmez
-bg:     oldpaper
-color:  black
+bg:     brown
+color:  white
 ---
 
 ## Confirmez-nous votre présence
