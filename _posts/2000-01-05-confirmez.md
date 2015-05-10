@@ -1,7 +1,7 @@
 ---
-title: Confirmez
-bg: "#FE8F73"
-color: white
+title:  Confirmez
+bg:     oldpaper
+color:  black
 ---
 
 ## Confirmez-nous votre présence
