@@ -1,0 +1,28 @@
+port: 4000
+host: 0.0.0.0
+safe: false
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
+
+
+### content configuration ###
+title:       "Mariage d'Olivier et de Virginie"
+keywords:    "mariage olivier albiez virginie guitton"
+description: "Site du mariage d'Olivier et de V"
+source_link: "https://github.com/oliviervirginie/oliviervirginie.github.io.git"
+favicon:     "img/favicon.jpg"
+
+
+### template colors, used site-wide via css ###
+colors:
+  white:    '#f8f8f8'
+  blue:     '#97B4FF'
+  lavender: '#B0C7FF'
+  darkblue: '#5872B2'
+  brown:    '#876333'
